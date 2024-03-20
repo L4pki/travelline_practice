@@ -1,0 +1,14 @@
+C:\Users\samur\source\repos\Market\Market\bin\Debug\net8.0\Market.exe
+C:\Users\samur\source\repos\Market\Market\bin\Debug\net8.0\Market.deps.json
+C:\Users\samur\source\repos\Market\Market\bin\Debug\net8.0\Market.runtimeconfig.json
+C:\Users\samur\source\repos\Market\Market\bin\Debug\net8.0\Market.dll
+C:\Users\samur\source\repos\Market\Market\bin\Debug\net8.0\Market.pdb
+C:\Users\samur\source\repos\Market\Market\obj\Debug\net8.0\Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samur\source\repos\Market\Market\obj\Debug\net8.0\Market.AssemblyInfoInputs.cache
+C:\Users\samur\source\repos\Market\Market\obj\Debug\net8.0\Market.AssemblyInfo.cs
+C:\Users\samur\source\repos\Market\Market\obj\Debug\net8.0\Market.csproj.CoreCompileInputs.cache
+C:\Users\samur\source\repos\Market\Market\obj\Debug\net8.0\Market.dll
+C:\Users\samur\source\repos\Market\Market\obj\Debug\net8.0\refint\Market.dll
+C:\Users\samur\source\repos\Market\Market\obj\Debug\net8.0\Market.pdb
+C:\Users\samur\source\repos\Market\Market\obj\Debug\net8.0\Market.genruntimeconfig.cache
+C:\Users\samur\source\repos\Market\Market\obj\Debug\net8.0\ref\Market.dll
