@@ -1,2 +1,7 @@
-дом,home
+дом,mountain
 home,дом
+mountain,холм
+гора,mountain
+холм,mountain
+птица,bird
+тукан,bird

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-
-class Translator
+﻿class Translator
 {
     private Dictionary<string, string> translations;
 
@@ -40,6 +36,7 @@ class Translator
             translations[word] = newTranslation;
             translations.Remove(translations[word]);
             translations[newTranslation] = word;
+            translations.Remove(word);
             SaveTranslationsToFile("translations.txt");
         }
         else
