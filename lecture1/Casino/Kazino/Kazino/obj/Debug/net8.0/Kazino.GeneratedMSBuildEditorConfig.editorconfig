@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Kazino
-build_property.ProjectDir = C:\Users\samur\source\repos\Kazino\Kazino\
+build_property.ProjectDir = C:\Users\samur\Git\travelline_practice\lecture1\Casino\Kazino\Kazino\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

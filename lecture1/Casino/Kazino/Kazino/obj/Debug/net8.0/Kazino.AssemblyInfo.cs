@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kazino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a51fbff43c7d963f467fe923c2f4c53886cba39")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kazino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kazino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

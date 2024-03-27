@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samur\\source\\repos\\Kazino\\Kazino\\Kazino.csproj",
+      "projectUniqueName": "C:\\Users\\samur\\Git\\travelline_practice\\lecture1\\Casino\\Kazino\\Kazino\\Kazino.csproj",
       "projectName": "Kazino",
-      "projectPath": "C:\\Users\\samur\\source\\repos\\Kazino\\Kazino\\Kazino.csproj",
+      "projectPath": "C:\\Users\\samur\\Git\\travelline_practice\\lecture1\\Casino\\Kazino\\Kazino\\Kazino.csproj",
       "packagesPath": "C:\\Users\\samur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samur\\source\\repos\\Kazino\\Kazino\\obj\\",
+      "outputPath": "C:\\Users\\samur\\Git\\travelline_practice\\lecture1\\Casino\\Kazino\\Kazino\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -70,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
