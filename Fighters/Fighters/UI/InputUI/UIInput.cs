@@ -14,12 +14,12 @@ namespace Fighters.UI.InputUI
         public string ChooseName()
         {
             Console.WriteLine("Введите имя Воина: ");
-            string NameFaighter = Console.ReadLine();
-            if (NameFaighter == "") 
+            string NameFighter = Console.ReadLine();
+            if (NameFighter == "") 
             {
                 return "Безымянный";
             }
-            return NameFaighter;
+            return NameFighter;
         }
         public IRace ChooseRace()
         {
@@ -27,13 +27,19 @@ namespace Fighters.UI.InputUI
                 "(1) Дворф\n" +
                 "(2) Эльфа\n" +
                 "(3) Человек\n" +
-                "(4) Орк\n");
+                "(4) Орк\n" +
+                "(5) Рандом\n");
             int numberFighter = 0;
             while (true)
             {
                 try
                 {
                     numberFighter = int.Parse(Console.ReadLine());
+                    if (numberFighter == 5)
+                    {
+                        Random random = new Random();
+                        numberFighter = random.Next(1, 4);
+                    }
                 }
                 catch
                 {
@@ -63,13 +69,19 @@ namespace Fighters.UI.InputUI
                "(3) Молот\n" +
                "(4) Ножи\n" +
                "(5) Меч\n" +
-               "(6) Кулаки\n");
+               "(6) Кулаки\n" +
+               "(7) Рандом\n");
             int numberWeapon = 0;
             while (true)
             {
                 try
                 {
                     numberWeapon = int.Parse(Console.ReadLine());
+                    if (numberWeapon == 7)
+                    {
+                        Random random = new Random();
+                        numberWeapon = random.Next(1, 6);
+                    }
                 }
                 catch
                 {
@@ -101,13 +113,19 @@ namespace Fighters.UI.InputUI
                 "(1) Без доспеха\n" +
                 "(2) Легкий доспех\n" +
                 "(3) Средний доспех\n" +
-                "(4) Тяжелый доспех\n");
+                "(4) Тяжелый доспех\n" +
+                "(5) Рандом\n");
             int numberArmor = 0;
             while (true)
             {
                 try
                 {
                     numberArmor = int.Parse(Console.ReadLine());
+                    if (numberArmor == 5)
+                    {
+                        Random random = new Random();
+                        numberArmor = random.Next(1, 4);
+                    }
                 }
                 catch
                 {
