@@ -10,16 +10,26 @@ namespace Fighters
     {
         public static void Main()
         {
-            var UII = new UIInput();
-            var UIO = new UIOutput();
-            Fighter firstFighter = UII.ChooseFighter();
-            Fighter secondFighter = UII.ChooseFighter();
-            UII.AboutFighter(firstFighter);
-            UII.AboutFighter(secondFighter);
+            bool IsCountineGame = true;
+            while (IsCountineGame) 
+            {
+                var UII = new UIInput();
+                var UIO = new UIOutput();
+                Fighter firstFighter = UII.ChooseFighter();
+                Fighter secondFighter = UII.ChooseFighter();
+                UII.AboutFighter(firstFighter);
+                UII.AboutFighter(secondFighter);
 
-            var master = new GameMaster();
-            var winner = master.PlayAndGetWinner(firstFighter, secondFighter);
-            UIO.WriteLine($"Выигрывает  {winner.Name}","DarkYellow");
+                var master = new GameMaster();
+                var winner = master.PlayAndGetWinner(firstFighter, secondFighter);
+                UIO.WriteLine($"Выигрывает  {winner.Name}", "DarkYellow");
+                Console.WriteLine("Хотите продолжить игру? yes/no");
+                if(Console.ReadLine() != "yes")
+                {
+                    IsCountineGame = false;
+                }
+                Console.Clear();
+            };
         }
     }
 
@@ -74,6 +84,8 @@ namespace Fighters
             }
             Console.Write($"Количество жизней {opponent.Name}: {opponent.CurrentHealth}");
             Console.WriteLine();
+            UIO.WriteLine("-------------------------------" +
+                "--------------------------------", "DarkGreen");
             return opponent.CurrentHealth < 1;
         }
     }

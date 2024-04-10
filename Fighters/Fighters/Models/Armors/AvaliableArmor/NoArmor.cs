@@ -4,7 +4,7 @@
     {
         public int Armor { get; } = 0;
         public int Speed { get; } = 15;
-        public int Dexterity { get; } = 20;
+        public int Dexterity { get; } = 35;
     }
 }
 
