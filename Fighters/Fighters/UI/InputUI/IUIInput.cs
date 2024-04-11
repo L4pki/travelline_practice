@@ -12,8 +12,8 @@ namespace Fighters.UI.InputUI
         public IArmor ChooseArmor();
         public Fighter ChooseFighter();
         public string ChooseName();
-        public void AboutFighter(IFighter Fighter);
-
+        public int[] SelectNumberFighters();
+        public IFighter[] ChooseTeam(int NumberFightersOnTeam,bool IsRed,string color);
     }
 }
 

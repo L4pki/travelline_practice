@@ -10,12 +10,14 @@ namespace Fighters.Models.Fighters
         public int MaxHealth => Race.Health;
         public int CurrentSpeedScale { get; private set; }
         public int CurrentHealth { get; private set; }
+        public int SpeedScale { get; }
 
         public string Name { get; }
 
         public IRace Race { get; }
         public IWeapon Weapon { get; }
         public IArmor Armor { get; }
+        public bool IsRedTeam { get; set; }
 
         public Fighter(string name, IRace race, IWeapon weapon, IArmor armor)
         {
@@ -24,12 +26,12 @@ namespace Fighters.Models.Fighters
             Weapon = weapon;
             Armor = armor;
             CurrentHealth = MaxHealth;
-            CurrentSpeedScale = Race.Speed + Weapon.Speed + Armor.Speed;
+            SpeedScale = Race.Speed + Weapon.Speed + Armor.Speed;
         }
 
         public bool TimeToAttack()
         {
-            CurrentSpeedScale += Race.Speed;
+            CurrentSpeedScale += SpeedScale;
             if (CurrentSpeedScale >= 100)
             {
                 CurrentSpeedScale -= 100;
@@ -72,11 +74,14 @@ namespace Fighters.Models.Fighters
         }
         public int CalculateDamage(bool IsCrit)
         {
+            Random rand = new Random();
+            int GodLuck = rand.Next(0, 20);
+            int damage = (int)((Race.Damage + Weapon.Damage) * (1 + (float)GodLuck / 100));
             if (IsCrit)
             {
-                return (int)((Race.Damage + Weapon.Damage) * (1 + (float)Weapon.CritDamage/100));
+                return (int)((damage) * (1 + (float)Weapon.CritDamage/100));
             }
-            return Race.Damage + Weapon.Damage;
+            return damage;
         }
 
         public int TakeDamage(int damage, bool IsEvasion)
@@ -97,6 +102,23 @@ namespace Fighters.Models.Fighters
             {
                 CurrentHealth = 0;
             }
+        }
+    }
+    public class FighterSpeedComparer : IComparer<IFighter>
+    {
+        public int Compare(IFighter x, IFighter y)
+        {
+            return x.SpeedScale.CompareTo(y.SpeedScale);
+        }
+    }
+    public class FighterManager
+    {
+        public IFighter[] SortSpeedScaleFighters(IFighter[] Team)
+        {           
+            IFighter[] SpeedSortTeam = new IFighter[Team.Length];
+            Array.Copy(Team, SpeedSortTeam, Team.Length);
+            Array.Sort(SpeedSortTeam, new FighterSpeedComparer());
+            return SpeedSortTeam;
         }
     }
 }

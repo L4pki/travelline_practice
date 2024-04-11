@@ -1,9 +1,22 @@
-﻿namespace Fighters.UI.OutputUI
+﻿using Fighters.Models.Fighters;
+
+namespace Fighters.UI.OutputUI
 {
     public interface IUIOutput
     {
         public void WriteLine(string text, string color);
         public void Write(string text, string color);
+        public void WriteFightLog(bool IsEvasion, bool IsCrit, 
+            IFighter fighter, int damage, int resist);
+        public void WriteWinner(IFighter winner);
+        public void AboutFighter(IFighter Fighter);
+        public void FighterCard(IFighter Fighter,string color);
+        public string SelectBattleMode();
+        public int ChooseTarget();
+        public void WriteWinnerTeam(IFighter[] WinnerTeam, string Color);
+        public void FightLog();
+        public bool IsRestartingGame();
+        public void IsCheckLog();
     }
 }
 

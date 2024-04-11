@@ -9,12 +9,14 @@ namespace Fighters.Models.Fighters
         public int MaxHealth { get; }
         public int CurrentHealth { get; }
         public int CurrentSpeedScale { get; }
+        public int SpeedScale { get; }
 
         public string Name { get; }
 
         public IWeapon Weapon { get; }
         public IRace Race { get; }
         public IArmor Armor { get; }
+        public bool IsRedTeam { get; set; }
 
         public bool TimeToAttack();
         public bool IsEvasion();

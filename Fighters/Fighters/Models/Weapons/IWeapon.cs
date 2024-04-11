@@ -6,6 +6,8 @@
         int Speed { get; }
         int CritChance { get; }
         int CritDamage { get; }
+        string About { get; }
+        string Name { get; }
     }
 }
 

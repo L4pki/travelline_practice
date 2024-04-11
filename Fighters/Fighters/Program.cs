@@ -1,7 +1,9 @@
 ﻿using Fighters.Models.Fighters;
 using Fighters.UI.InputUI;
 using Fighters.UI.OutputUI;
-using System.Diagnostics;
+using System.Collections.Generic;
+using System.Drawing;
+using System.IO;
 
 
 namespace Fighters
@@ -10,83 +12,44 @@ namespace Fighters
     {
         public static void Main()
         {
-            bool IsCountineGame = true;
-            while (IsCountineGame) 
-            {
-                var UII = new UIInput();
-                var UIO = new UIOutput();
-                Fighter firstFighter = UII.ChooseFighter();
-                Fighter secondFighter = UII.ChooseFighter();
-                UII.AboutFighter(firstFighter);
-                UII.AboutFighter(secondFighter);
-
-                var master = new GameMaster();
-                var winner = master.PlayAndGetWinner(firstFighter, secondFighter);
-                UIO.WriteLine($"Выигрывает  {winner.Name}", "DarkYellow");
-                Console.WriteLine("Хотите продолжить игру? yes/no");
-                if(Console.ReadLine() != "yes")
-                {
-                    IsCountineGame = false;
-                }
-                Console.Clear();
-            };
-        }
-    }
-
-    public class GameMaster
-    {
-        public IFighter PlayAndGetWinner(IFighter firstFighter, IFighter secondFighter)
-        {
-            while (true)
-            {
-                // First fights second
-                if(firstFighter.TimeToAttack()) 
-                {
-                    if (FightAndCheckIfOpponentDead(firstFighter, secondFighter))
-                    {
-                        return firstFighter;
-                    }
-                }
-
-                // Second fights first
-                if (secondFighter.TimeToAttack())
-                {
-                    if (FightAndCheckIfOpponentDead(secondFighter, firstFighter))
-                    {
-                        return secondFighter;
-                    }
-                }
-            }
-
-            throw new UnreachableException();
-        }
-
-        private bool FightAndCheckIfOpponentDead(IFighter roundOwner, IFighter opponent)
-        {
-            bool IsEvasion = opponent.IsEvasion();
-            bool IsCrit = roundOwner.IsCrit();
+            var UII = new UIInput();
             var UIO = new UIOutput();
-            int damage = roundOwner.CalculateDamage(IsCrit);
-            int resist = opponent.TakeDamage(damage, IsEvasion);
-            opponent.SetDamage(damage, IsEvasion);
-            if (IsEvasion)
+            bool IsCountineGame = true;
+            string StrSelectMode =  UIO.SelectBattleMode();
+            while (IsCountineGame)
             {
-                UIO.WriteLine($"Соперник {opponent.Name} уклонился", "DarkCyan");
-            }
-            else
-            {
-                if (IsCrit)
+                if (StrSelectMode == "1")
                 {
-                    UIO.WriteLine($"Прошел Крит.удар по {opponent.Name}", "DarkRed");
+                    Fighter firstFighter = UII.ChooseFighter();
+                    Fighter secondFighter = UII.ChooseFighter();
+                    UIO.AboutFighter(firstFighter);
+                    UIO.AboutFighter(secondFighter);
+                    var master = new GameMaster();
+                    var winner = master.PlayAndGetWinnerWithTwoChampions(firstFighter, secondFighter);
+                    UIO.FightLog();
+                    UIO.WriteWinner(winner);
+                    IsCountineGame = UIO.IsRestartingGame();
                 }
-                Console.Write($"Боец {opponent.Name} получает {damage} урона. ");
-                UIO.Write($"(поглощено {resist}) ", "Blue");
-            }
-            Console.Write($"Количество жизней {opponent.Name}: {opponent.CurrentHealth}");
-            Console.WriteLine();
-            UIO.WriteLine("-------------------------------" +
-                "--------------------------------", "DarkGreen");
-            return opponent.CurrentHealth < 1;
+                else
+                {
+                    int[] NumberFighters = UII.SelectNumberFighters();
+                    IFighter[] RedTeam = UII.ChooseTeam(NumberFighters[0], true,"Red");
+                    IFighter[] BlueTeam = UII.ChooseTeam(NumberFighters[1], false, "Blue");
+                    IFighter[] AllFighters = BlueTeam.Concat(RedTeam).ToArray();
+                    var master = new GameMaster();
+                    var WinnerTeam = master.PlayAndGetWinnerTeam(AllFighters, BlueTeam, RedTeam);
+                    if(WinnerTeam == BlueTeam)
+                    {
+                        UIO.WriteWinnerTeam(WinnerTeam,"Blue");
+                    }
+                    else
+                    {
+                        UIO.WriteWinnerTeam(WinnerTeam, "Red");
+                    }
+                    UIO.IsCheckLog();
+                    IsCountineGame = UIO.IsRestartingGame();
+                }
+            }  
         }
     }
 }

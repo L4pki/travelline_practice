@@ -5,6 +5,8 @@
         int Armor { get; }
         int Speed { get; }
         int Dexterity { get; }
+        string About { get; }
+        string Name { get; }
     }
 }
 

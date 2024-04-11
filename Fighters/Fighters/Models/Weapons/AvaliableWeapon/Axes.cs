@@ -6,6 +6,8 @@
         public int Speed { get; } = 9;
         public int CritChance { get; } = 19;
         public int CritDamage { get; } = 75;
+        public string About { get; } = "окровавленными топорами";
+        public string Name { get; } = "Axes";
     }
 }
 
