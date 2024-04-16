@@ -1,55 +1,50 @@
 ﻿using Fighters.Models.Fighters;
 using Fighters.UI.InputUI;
 using Fighters.UI.OutputUI;
-using System.Collections.Generic;
-using System.Drawing;
-using System.IO;
 
 
-namespace Fighters
+namespace Fighters;
+
+public class Program
 {
-    public class Program
+    private static readonly IUIInput _uiInput = new UIInput();
+    private static readonly IUIOutput _uiOutput = new UIOutput();
+    public static void Main()
     {
-        public static void Main()
+        bool IsCountineGame = true;
+        string StrSelectMode = _uiOutput.SelectBattleMode();
+        var master = new GameMaster( _uiOutput );
+        while ( IsCountineGame )
         {
-            var UII = new UIInput();
-            var UIO = new UIOutput();
-            bool IsCountineGame = true;
-            string StrSelectMode =  UIO.SelectBattleMode();
-            while (IsCountineGame)
+            if ( StrSelectMode == "1" )
             {
-                if (StrSelectMode == "1")
+                Fighter firstFighter = _uiInput.ChooseFighter();
+                Fighter secondFighter = _uiInput.ChooseFighter();
+                _uiOutput.AboutFighter( firstFighter );
+                _uiOutput.AboutFighter( secondFighter );
+                var winner = master.PlayAndGetWinnerWithTwoChampions( firstFighter, secondFighter );
+                _uiOutput.FightLog();
+                _uiOutput.WriteWinner( winner );
+                IsCountineGame = _uiOutput.IsRestartingGame();
+            }
+            else
+            {
+                int[] NumberFighters = _uiInput.SelectNumberFighters();
+                IFighter[] RedTeam = _uiInput.ChooseTeam( NumberFighters[ 0 ], true, "Red" );
+                IFighter[] BlueTeam = _uiInput.ChooseTeam( NumberFighters[ 1 ], false, "Blue" );
+                IFighter[] AllFighters = BlueTeam.Concat( RedTeam ).ToArray();
+                var WinnerTeam = master.PlayAndGetWinnerTeam( AllFighters, BlueTeam, RedTeam );
+                if ( WinnerTeam == BlueTeam )
                 {
-                    Fighter firstFighter = UII.ChooseFighter();
-                    Fighter secondFighter = UII.ChooseFighter();
-                    UIO.AboutFighter(firstFighter);
-                    UIO.AboutFighter(secondFighter);
-                    var master = new GameMaster();
-                    var winner = master.PlayAndGetWinnerWithTwoChampions(firstFighter, secondFighter);
-                    UIO.FightLog();
-                    UIO.WriteWinner(winner);
-                    IsCountineGame = UIO.IsRestartingGame();
+                    _uiOutput.WriteWinnerTeam( WinnerTeam, "Blue" );
                 }
                 else
                 {
-                    int[] NumberFighters = UII.SelectNumberFighters();
-                    IFighter[] RedTeam = UII.ChooseTeam(NumberFighters[0], true,"Red");
-                    IFighter[] BlueTeam = UII.ChooseTeam(NumberFighters[1], false, "Blue");
-                    IFighter[] AllFighters = BlueTeam.Concat(RedTeam).ToArray();
-                    var master = new GameMaster();
-                    var WinnerTeam = master.PlayAndGetWinnerTeam(AllFighters, BlueTeam, RedTeam);
-                    if(WinnerTeam == BlueTeam)
-                    {
-                        UIO.WriteWinnerTeam(WinnerTeam,"Blue");
-                    }
-                    else
-                    {
-                        UIO.WriteWinnerTeam(WinnerTeam, "Red");
-                    }
-                    UIO.IsCheckLog();
-                    IsCountineGame = UIO.IsRestartingGame();
+                    _uiOutput.WriteWinnerTeam( WinnerTeam, "Red" );
                 }
-            }  
+                _uiOutput.IsCheckLog();
+                IsCountineGame = _uiOutput.IsRestartingGame();
+            }
         }
     }
 }
