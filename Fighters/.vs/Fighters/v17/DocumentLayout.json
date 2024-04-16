@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\models\\weapons\\avaliableweapon\\knifes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\weapons\\avaliableweapon\\knifes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\fightlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\fightlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\gamemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\gamemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\models\\weapons\\avaliableweapon\\axes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\weapons\\avaliableweapon\\axes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\models\\weapons\\avaliableweapon\\hammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\weapons\\avaliableweapon\\hammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\models\\weapons\\avaliableweapon\\noweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\weapons\\avaliableweapon\\noweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\ui\\outputui\\uioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\ui\\outputui\\uioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\ui\\outputui\\iuioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\ui\\outputui\\iuioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\gamemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\gamemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\models\\fighters\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,26 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\models\\fighters\\ifighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\fighters\\ifighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\fightlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\fightlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\models\\weapons\\avaliableweapon\\noweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\weapons\\avaliableweapon\\noweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\models\\weapons\\avaliableweapon\\knifes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\weapons\\avaliableweapon\\knifes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\models\\weapons\\avaliableweapon\\hammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\weapons\\avaliableweapon\\hammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\models\\weapons\\avaliableweapon\\axes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\weapons\\avaliableweapon\\axes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F679494-AAAF-4644-A25E-94D0ADECA0FF}|Fighters\\Fighters.csproj|c:\\users\\samur\\git\\travelline_practice\\fighters\\fighters\\models\\weapons\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,13 +106,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\Program.cs",
               "RelativeDocumentMoniker": "Fighters\\Program.cs",
               "ToolTip": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\Program.cs",
               "RelativeToolTip": "Fighters\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAgwCQAAABYAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswCQAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T13:37:01.994Z",
               "EditorCaption": ""
@@ -125,14 +125,14 @@
               "RelativeDocumentMoniker": "Fighters\\GameMaster.cs",
               "ToolTip": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\GameMaster.cs",
               "RelativeToolTip": "Fighters\\GameMaster.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAiwCAAAAA3AAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAiwCAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T21:20:47.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "NoWeapon.cs",
               "DocumentMoniker": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\Models\\Weapons\\AvaliableWeapon\\NoWeapon.cs",
               "RelativeDocumentMoniker": "Fighters\\Models\\Weapons\\AvaliableWeapon\\NoWeapon.cs",
@@ -140,12 +140,11 @@
               "RelativeToolTip": "Fighters\\Models\\Weapons\\AvaliableWeapon\\NoWeapon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T20:53:18.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T20:53:18.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Knifes.cs",
               "DocumentMoniker": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\Models\\Weapons\\AvaliableWeapon\\Knifes.cs",
               "RelativeDocumentMoniker": "Fighters\\Models\\Weapons\\AvaliableWeapon\\Knifes.cs",
@@ -158,20 +157,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "FightLog.cs",
               "DocumentMoniker": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\FightLog.cs",
               "RelativeDocumentMoniker": "Fighters\\FightLog.cs",
               "ToolTip": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\FightLog.cs",
               "RelativeToolTip": "Fighters\\FightLog.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAswCAAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T00:32:46.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Hammer.cs",
               "DocumentMoniker": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\Models\\Weapons\\AvaliableWeapon\\Hammer.cs",
               "RelativeDocumentMoniker": "Fighters\\Models\\Weapons\\AvaliableWeapon\\Hammer.cs",
@@ -179,12 +178,11 @@
               "RelativeToolTip": "Fighters\\Models\\Weapons\\AvaliableWeapon\\Hammer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T20:55:45.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T20:55:45.216Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "Axes.cs",
               "DocumentMoniker": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\Models\\Weapons\\AvaliableWeapon\\Axes.cs",
               "RelativeDocumentMoniker": "Fighters\\Models\\Weapons\\AvaliableWeapon\\Axes.cs",
@@ -205,8 +203,7 @@
               "RelativeToolTip": "Fighters\\Models\\Armors\\AvaliableArmor\\LightArmor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T16:38:58.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T16:38:58.464Z"
             },
             {
               "$type": "Document",
@@ -218,8 +215,7 @@
               "RelativeToolTip": "Fighters\\Models\\Weapons\\IWeapon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T15:00:13.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T15:00:13.278Z"
             },
             {
               "$type": "Document",
@@ -231,8 +227,7 @@
               "RelativeToolTip": "Fighters\\Models\\Armors\\AvaliableArmor\\HeavyArmor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T16:38:53.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T16:38:53.46Z"
             },
             {
               "$type": "Document",
@@ -244,8 +239,7 @@
               "RelativeToolTip": "Fighters\\Models\\Armors\\IArmor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T14:51:21.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T14:51:21.685Z"
             },
             {
               "$type": "Document",
@@ -279,20 +273,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "UIOutput.cs",
               "DocumentMoniker": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\UI\\OutputUI\\UIOutput.cs",
               "RelativeDocumentMoniker": "Fighters\\UI\\OutputUI\\UIOutput.cs",
               "ToolTip": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\UI\\OutputUI\\UIOutput.cs",
               "RelativeToolTip": "Fighters\\UI\\OutputUI\\UIOutput.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAcwNsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T01:34:48.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Fighter.cs",
               "DocumentMoniker": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\Models\\Fighters\\Fighter.cs",
               "RelativeDocumentMoniker": "Fighters\\Models\\Fighters\\Fighter.cs",
@@ -300,12 +294,11 @@
               "RelativeToolTip": "Fighters\\Models\\Fighters\\Fighter.cs",
               "ViewState": "AQIAADIAAAAAAAAAAADwv3AAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T15:21:38.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T15:21:38.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "UIInput.cs",
               "DocumentMoniker": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\UI\\InputUI\\UIInput.cs",
               "RelativeDocumentMoniker": "Fighters\\UI\\InputUI\\UIInput.cs",
@@ -313,12 +306,11 @@
               "RelativeToolTip": "Fighters\\UI\\InputUI\\UIInput.cs",
               "ViewState": "AQIAAKQAAAAAAAAAAAAcwKkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T22:38:01.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T22:38:01.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "IUIOutput.cs",
               "DocumentMoniker": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\UI\\OutputUI\\IUIOutput.cs",
               "RelativeDocumentMoniker": "Fighters\\UI\\OutputUI\\IUIOutput.cs",
@@ -326,12 +318,11 @@
               "RelativeToolTip": "Fighters\\UI\\OutputUI\\IUIOutput.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T01:33:22.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T01:33:22.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "IUIInput.cs",
               "DocumentMoniker": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\UI\\InputUI\\IUIInput.cs",
               "RelativeDocumentMoniker": "Fighters\\UI\\InputUI\\IUIInput.cs",
@@ -339,8 +330,7 @@
               "RelativeToolTip": "Fighters\\UI\\InputUI\\IUIInput.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T22:37:14.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T22:37:14.431Z"
             },
             {
               "$type": "Document",
@@ -352,12 +342,11 @@
               "RelativeToolTip": "Fighters\\Models\\Races\\AvaliableRaces\\Dworf.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T20:00:55.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T20:00:55.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "IFighter.cs",
               "DocumentMoniker": "C:\\Users\\samur\\Git\\travelline_practice\\Fighters\\Fighters\\Models\\Fighters\\IFighter.cs",
               "RelativeDocumentMoniker": "Fighters\\Models\\Fighters\\IFighter.cs",
@@ -365,8 +354,7 @@
               "RelativeToolTip": "Fighters\\Models\\Fighters\\IFighter.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T15:20:31.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T15:20:31.951Z"
             },
             {
               "$type": "Document",
