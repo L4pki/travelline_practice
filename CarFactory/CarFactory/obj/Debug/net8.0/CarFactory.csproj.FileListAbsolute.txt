@@ -1,0 +1,14 @@
+C:\Users\samur\source\repos\CarFactory\CarFactory\bin\Debug\net8.0\CarFactory.exe
+C:\Users\samur\source\repos\CarFactory\CarFactory\bin\Debug\net8.0\CarFactory.deps.json
+C:\Users\samur\source\repos\CarFactory\CarFactory\bin\Debug\net8.0\CarFactory.runtimeconfig.json
+C:\Users\samur\source\repos\CarFactory\CarFactory\bin\Debug\net8.0\CarFactory.dll
+C:\Users\samur\source\repos\CarFactory\CarFactory\bin\Debug\net8.0\CarFactory.pdb
+C:\Users\samur\source\repos\CarFactory\CarFactory\obj\Debug\net8.0\CarFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samur\source\repos\CarFactory\CarFactory\obj\Debug\net8.0\CarFactory.AssemblyInfoInputs.cache
+C:\Users\samur\source\repos\CarFactory\CarFactory\obj\Debug\net8.0\CarFactory.AssemblyInfo.cs
+C:\Users\samur\source\repos\CarFactory\CarFactory\obj\Debug\net8.0\CarFactory.csproj.CoreCompileInputs.cache
+C:\Users\samur\source\repos\CarFactory\CarFactory\obj\Debug\net8.0\CarFactory.dll
+C:\Users\samur\source\repos\CarFactory\CarFactory\obj\Debug\net8.0\refint\CarFactory.dll
+C:\Users\samur\source\repos\CarFactory\CarFactory\obj\Debug\net8.0\CarFactory.pdb
+C:\Users\samur\source\repos\CarFactory\CarFactory\obj\Debug\net8.0\CarFactory.genruntimeconfig.cache
+C:\Users\samur\source\repos\CarFactory\CarFactory\obj\Debug\net8.0\ref\CarFactory.dll

@@ -1,0 +1,532 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samur\\source\\repos\\CarFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\bodycolor\\bluecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\bodycolor\\bluecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\bodycolor\\choosebodycolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\bodycolor\\choosebodycolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\bodycolor\\greencolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\bodycolor\\greencolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\bodycolor\\ibodycolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\bodycolor\\ibodycolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\bodycolor\\redcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\bodycolor\\redcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\bodytype\\choosebodytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\bodytype\\choosebodytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\bodytype\\coupe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\bodytype\\coupe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\bodytype\\hatchback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\bodytype\\hatchback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\bodytype\\ibodytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\bodytype\\ibodytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\bodytype\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\bodytype\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\car\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\car\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\car\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\car\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\engine\\chooseengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\engine\\chooseengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\engine\\electricengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\engine\\electricengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\engine\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\engine\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\engine\\inline4engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\engine\\inline4engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\engine\\v6engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\engine\\v6engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\transmission\\automatictransmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\transmission\\automatictransmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\transmission\\choosetransmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\transmission\\choosetransmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\transmission\\itransmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\transmission\\itransmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|c:\\users\\samur\\source\\repos\\carfactory\\carfactory\\models\\transmission\\manualtransmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB4AF63-90F2-4868-9696-2E66D689E1B8}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\models\\transmission\\manualtransmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": 42,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ElectricEngine.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Engine\\ElectricEngine.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\Engine\\ElectricEngine.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Engine\\ElectricEngine.cs",
+              "RelativeToolTip": "CarFactory\\Models\\Engine\\ElectricEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:07:34.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChooseEngine.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Engine\\ChooseEngine.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\Engine\\ChooseEngine.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Engine\\ChooseEngine.cs",
+              "RelativeToolTip": "CarFactory\\Models\\Engine\\ChooseEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:34:07.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarFactory.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Car\\CarFactory.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\Car\\CarFactory.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Car\\CarFactory.cs",
+              "RelativeToolTip": "CarFactory\\Models\\Car\\CarFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:34:45.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hatchback.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyType\\Hatchback.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\BodyType\\Hatchback.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyType\\Hatchback.cs",
+              "RelativeToolTip": "CarFactory\\Models\\BodyType\\Hatchback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:32:37.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Coupe.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyType\\Coupe.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\BodyType\\Coupe.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyType\\Coupe.cs",
+              "RelativeToolTip": "CarFactory\\Models\\BodyType\\Coupe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:32:29.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChooseBodyType.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyType\\ChooseBodyType.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\BodyType\\ChooseBodyType.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyType\\ChooseBodyType.cs",
+              "RelativeToolTip": "CarFactory\\Models\\BodyType\\ChooseBodyType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:54:50.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RedColor.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyColor\\RedColor.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\BodyColor\\RedColor.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyColor\\RedColor.cs",
+              "RelativeToolTip": "CarFactory\\Models\\BodyColor\\RedColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:32:21.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBodyColor.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyColor\\IBodyColor.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\BodyColor\\IBodyColor.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyColor\\IBodyColor.cs",
+              "RelativeToolTip": "CarFactory\\Models\\BodyColor\\IBodyColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:32:18.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GreenColor.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyColor\\GreenColor.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\BodyColor\\GreenColor.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyColor\\GreenColor.cs",
+              "RelativeToolTip": "CarFactory\\Models\\BodyColor\\GreenColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:32:12.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChooseBodyColor.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyColor\\ChooseBodyColor.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\BodyColor\\ChooseBodyColor.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyColor\\ChooseBodyColor.cs",
+              "RelativeToolTip": "CarFactory\\Models\\BodyColor\\ChooseBodyColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:51:26.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Program.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Program.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Program.cs",
+              "RelativeToolTip": "CarFactory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:29:04.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Engine\\IEngine.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\Engine\\IEngine.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Engine\\IEngine.cs",
+              "RelativeToolTip": "CarFactory\\Models\\Engine\\IEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:07:42.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlueColor.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyColor\\BlueColor.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\BodyColor\\BlueColor.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyColor\\BlueColor.cs",
+              "RelativeToolTip": "CarFactory\\Models\\BodyColor\\BlueColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:31:51.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Car\\Car.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\Car\\Car.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Car\\Car.cs",
+              "RelativeToolTip": "CarFactory\\Models\\Car\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:12:18.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBodyType.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyType\\IBodyType.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\BodyType\\IBodyType.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyType\\IBodyType.cs",
+              "RelativeToolTip": "CarFactory\\Models\\BodyType\\IBodyType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:37:21.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Inline4Engine.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Engine\\Inline4Engine.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\Engine\\Inline4Engine.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Engine\\Inline4Engine.cs",
+              "RelativeToolTip": "CarFactory\\Models\\Engine\\Inline4Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:07:44.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "V6Engine.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Engine\\V6Engine.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\Engine\\V6Engine.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Engine\\V6Engine.cs",
+              "RelativeToolTip": "CarFactory\\Models\\Engine\\V6Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:07:46.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutomaticTransmission.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Transmission\\AutomaticTransmission.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\Transmission\\AutomaticTransmission.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Transmission\\AutomaticTransmission.cs",
+              "RelativeToolTip": "CarFactory\\Models\\Transmission\\AutomaticTransmission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:08:11.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChooseTransmission.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Transmission\\ChooseTransmission.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\Transmission\\ChooseTransmission.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Transmission\\ChooseTransmission.cs",
+              "RelativeToolTip": "CarFactory\\Models\\Transmission\\ChooseTransmission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:36:38.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManualTransmission.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Transmission\\ManualTransmission.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\Transmission\\ManualTransmission.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Transmission\\ManualTransmission.cs",
+              "RelativeToolTip": "CarFactory\\Models\\Transmission\\ManualTransmission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:12:03.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sedan.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyType\\Sedan.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\BodyType\\Sedan.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\BodyType\\Sedan.cs",
+              "RelativeToolTip": "CarFactory\\Models\\BodyType\\Sedan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:32:42.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITransmission.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Transmission\\ITransmission.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Models\\Transmission\\ITransmission.cs",
+              "ToolTip": "C:\\Users\\samur\\source\\repos\\CarFactory\\CarFactory\\Models\\Transmission\\ITransmission.cs",
+              "RelativeToolTip": "CarFactory\\Models\\Transmission\\ITransmission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:31:33.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 155,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
