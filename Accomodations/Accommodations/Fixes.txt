@@ -1,0 +1,12 @@
+1) AccommodationsProcessor
+   - 50 Valid currensyDto, startDate, endDate.
+   - 90 Valid bookingId.
+   - 106 Undo (Программа падала если было нечего отменять)
+   - 120 Valid startDate, endDate.
+2) BookingService
+   - 88 (140) usen't UserId.
+   - 104 <= endDate (Не уверен что это ошибка, но из-за строгого выражения могут выйти недопонимания)
+   - 120 booking Penalty (Выходило отрицательное число, поменял местами даты)
+   - 143 totalCost (Курс валюты менял только скидку, как я понял был неправильный подсчет totalCost)
+3) FindBookingByIdCommand
+   - 11 RoomCategory (Выводился путь к модели номера, вмсето названия)

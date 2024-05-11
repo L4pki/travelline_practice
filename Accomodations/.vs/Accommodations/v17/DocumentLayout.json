@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\fixes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\fixes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\commands\\bookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\commands\\bookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\accommodationsprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\accommodationsprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\models\\roomcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\models\\roomcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\dto\\currencydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\dto\\currencydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\commands\\findbookingbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\commands\\findbookingbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\commands\\searchbookingscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\commands\\searchbookingscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\commands\\cancelbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\commands\\cancelbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|c:\\users\\samur\\downloads\\dotnet-lectures-main\\dotnet-lectures-main\\accomodations\\accommodations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE5FA7-05A0-41C4-BD1B-1316ED6C9F67}|Accommodations\\Accommodations.csproj|solutionrelative:accommodations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": 42,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Accommodations\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Models\\Booking.cs",
+              "RelativeToolTip": "Accommodations\\Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:31:27.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CurrencyDto.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Dto\\CurrencyDto.cs",
+              "RelativeDocumentMoniker": "Accommodations\\Dto\\CurrencyDto.cs",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Dto\\CurrencyDto.cs",
+              "RelativeToolTip": "Accommodations\\Dto\\CurrencyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:31:11.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Dto\\BookingDto.cs",
+              "RelativeDocumentMoniker": "Accommodations\\Dto\\BookingDto.cs",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Dto\\BookingDto.cs",
+              "RelativeToolTip": "Accommodations\\Dto\\BookingDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:31:06.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\BookingService.cs",
+              "RelativeDocumentMoniker": "Accommodations\\BookingService.cs",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\BookingService.cs",
+              "RelativeToolTip": "Accommodations\\BookingService.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowGcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:32:22.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccommodationsProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\AccommodationsProcessor.cs",
+              "RelativeDocumentMoniker": "Accommodations\\AccommodationsProcessor.cs",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\AccommodationsProcessor.cs",
+              "RelativeToolTip": "Accommodations\\AccommodationsProcessor.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAowDIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:10:04.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Commands\\BookCommand.cs",
+              "RelativeDocumentMoniker": "Accommodations\\Commands\\BookCommand.cs",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Commands\\BookCommand.cs",
+              "RelativeToolTip": "Accommodations\\Commands\\BookCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:29:26.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Models\\Currency.cs",
+              "RelativeDocumentMoniker": "Accommodations\\Models\\Currency.cs",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Models\\Currency.cs",
+              "RelativeToolTip": "Accommodations\\Models\\Currency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:31:32.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomCategory.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Models\\RoomCategory.cs",
+              "RelativeDocumentMoniker": "Accommodations\\Models\\RoomCategory.cs",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Models\\RoomCategory.cs",
+              "RelativeToolTip": "Accommodations\\Models\\RoomCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:31:34.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Accommodations\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Models\\User.cs",
+              "RelativeToolTip": "Accommodations\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:31:41.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "Accommodations\\Commands\\ICommand.cs",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Commands\\ICommand.cs",
+              "RelativeToolTip": "Accommodations\\Commands\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:30:46.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fixes.txt",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Fixes.txt",
+              "RelativeDocumentMoniker": "Accommodations\\Fixes.txt",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Fixes.txt",
+              "RelativeToolTip": "Accommodations\\Fixes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-11T15:06:34.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FindBookingByIdCommand.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Commands\\FindBookingByIdCommand.cs",
+              "RelativeDocumentMoniker": "Accommodations\\Commands\\FindBookingByIdCommand.cs",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Commands\\FindBookingByIdCommand.cs",
+              "RelativeToolTip": "Accommodations\\Commands\\FindBookingByIdCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:29:54.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\IBookingService.cs",
+              "RelativeDocumentMoniker": "Accommodations\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\IBookingService.cs",
+              "RelativeToolTip": "Accommodations\\IBookingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:49:08.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SearchBookingsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Commands\\SearchBookingsCommand.cs",
+              "RelativeDocumentMoniker": "Accommodations\\Commands\\SearchBookingsCommand.cs",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Commands\\SearchBookingsCommand.cs",
+              "RelativeToolTip": "Accommodations\\Commands\\SearchBookingsCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:30:53.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CancelBookingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Commands\\CancelBookingCommand.cs",
+              "RelativeDocumentMoniker": "Accommodations\\Commands\\CancelBookingCommand.cs",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Commands\\CancelBookingCommand.cs",
+              "RelativeToolTip": "Accommodations\\Commands\\CancelBookingCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:29:46.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Program.cs",
+              "RelativeDocumentMoniker": "Accommodations\\Program.cs",
+              "ToolTip": "C:\\Users\\samur\\Downloads\\dotnet-lectures-main\\dotnet-lectures-main\\Accomodations\\Accommodations\\Program.cs",
+              "RelativeToolTip": "Accommodations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:17:11.333Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 155,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
