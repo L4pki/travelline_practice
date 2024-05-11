@@ -6,7 +6,11 @@
 bin
 obj
 .vs
+<<<<<<< HEAD
 !Fixes.txt
+=======
+
+>>>>>>> 4fd783e52998c19766f5f46e48fd9c754d60ccc4
 # User-specific files
 *.rsuser
 *.suo
